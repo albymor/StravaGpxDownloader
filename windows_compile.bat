@@ -1,0 +1,1 @@
+pyinstaller --onefile main.py --hidden-import PyQt5.sip --windowed
